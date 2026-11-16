@@ -1,6 +1,7 @@
 
 <div align="center">
   <h1>flarepick</h1>
+  <h2>Work in progress!</h2>
 </div>
 
 **flarepick** is a tool made to easily organize your photos into pretty galleries
